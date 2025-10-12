@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://x.com/0xrupamp26" target="blank"><img src="https://img.shields.io/twitter/follow/0xrupamp26?logo=twitter&style=for-the-badge" alt="rupamp26" /></a> </p>
 
-- 🔭 I’m currently working on **AccordFolio, SentimentVelocity Bot, AptosPay, Helix.ai, ArogyaX.ai**
+- 🔭 I’m currently working on **AuraCrypt, AccordFolio, SentimentVelocity Bot, AptosPay, LumenLabs, Helix.ai, ArogyaX.ai**
 
 - 🌱 I’m currently learning **Solidity, Move, ReactNative**
 
