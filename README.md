@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://x.com/0xrupamp26" target="blank"><img src="https://img.shields.io/twitter/follow/0xrupamp26?logo=twitter&style=for-the-badge" alt="rupamp26" /></a> </p>
 
-# I BUILD SOFTWARE TO PAY MY BILLS
+# I BUILD TO PAY MY BILLS, TBH!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
