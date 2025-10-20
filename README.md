@@ -4,23 +4,6 @@
 
 <p align="left"> <a href="https://x.com/0xrupamp26" target="blank"><img src="https://img.shields.io/twitter/follow/0xrupamp26?logo=twitter&style=for-the-badge" alt="rupamp26" /></a> </p>
 
-- 🔭 I’m currently working on **AuraCrypt, AccordFolio, AptosPay, LumenLabs, Helix.ai, ArogyaX.ai**
-
-- 🌱 I’m currently learning **Solidity, Move, ReactNative**
-
-- 🤝 I’m looking for help with **AuraCrypt, AccordFolio, AptosPay, LumenLabs, Helix.ai, ArogyaX.ai**
-
-- 👨‍💻 Portfolio [https://rupamkarmakar.vercel.app/](https://rupamkarmakar.vercel.app/)
-
-- 💬 Ask me about **Everything**
-
-- 📫 How to reach me **rupamkarmakar1105@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1GOb3SJSiXa6eyGqRJsNoPuENjTVUWcZ4/view?usp=sharing)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
