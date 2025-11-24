@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rupam Karmakar</h1>
-<h3 align="center">Building Klash | Backend Developer, dApps-DeFi, Web3 & AI - Research | Contributor: Aptos & Base | Member: MoveClub & Farcaster Builders International | 7x Hackathon Winner | Cricket, Tech, Gadgets, Travel, Curiosity!</h3>
+<h3 align="center">Co-Founder & CTO, Klash | Backend Developer, dApps-DeFi, Web3 & AI - Research | Contributor: Aptos & Base | Member: MoveClub & Farcaster Builders International | 7x Hackathon Winner | Tech, Gadgets, Travel, Curiosity!</h3>
 
 
 <p align="left"> <a href="https://x.com/0xrupamp26" target="blank"><img src="https://img.shields.io/twitter/follow/0xrupamp26?logo=twitter&style=for-the-badge" alt="rupamp26" /></a> </p>
 
-# I BUILD TO PAY MY BILLS, TBH!
+# I BUILD BECAUSE I LOVE IT, TBH!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
