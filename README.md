@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rupam Karmakar</h1>
-<h3 align="center">Co-Founder & CTO, Klash | Backend & Smart Contract Developer, DeFi; Web3 & AI - Research | Contributor: Aptos & Base | Member: MoveClub & Farcaster Builders International | 7x Hackathon Winner | Tech, Gadgets, Travel!</h3>
+<h3 align="center">Co-Founder, Klash & OutNeX Labs | Backend & Smart Contract Developer, DeFi; Web3 & AI - Research | Contributor: Aptos & Base | Member: MoveClub & Farcaster Builders International | 8x Hackathon 🏆 | Design, Art, Gadgets, Travel!</h3>
 
 
 <p align="left"> <a href="https://x.com/0xrupamp26" target="blank"><img src="https://img.shields.io/twitter/follow/0xrupamp26?logo=twitter&style=for-the-badge" alt="rupamp26" /></a> </p>
